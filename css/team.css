@@ -1,0 +1,22 @@
+.team {
+  background-color: #f4f4fd;
+}
+
+.block-heading {
+  font-size: 36px;
+  line-height: 1.11;
+  color: #2e2f42;
+  letter-spacing: 0.02em;
+}
+
+.team-name {
+  font-size: 20px;
+  line-height: 1.2;
+  font-weight: 500;
+  color: #2e2f42;
+  letter-spacing: 0.02em;
+}
+
+.team-card {
+  background-color: #fff;
+}
